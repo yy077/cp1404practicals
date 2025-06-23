@@ -1,7 +1,7 @@
 """
 Name: Yang Ruishen
 Date started: 2025/06/18
-GitHub URL: https://github.com/YourGitHubUsername/CP1404-Assignment1
+GitHub URL: https://github.com/yy077/cp1404practicals/tree/main/assignment%201
 """
 
 # Constants
