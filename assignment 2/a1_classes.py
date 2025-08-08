@@ -1,7 +1,7 @@
 """
 Name: Yang Ruishen
 Date started: 2025/08/04
-GitHub URL:
+GitHub URL:https://github.com/yy077/cp1404practicals/tree/main/assignment%202
 """
 
 """Console program for managing movies using classes."""
