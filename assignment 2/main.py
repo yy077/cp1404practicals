@@ -2,7 +2,7 @@
 Name: Yang Ruishen
 Date Started: 2025/08/04
 Brief Project Description: A Kivy app for managing movies
-GitHub URL:
+GitHub URL:https://github.com/yy077/cp1404practicals/tree/main/assignment%202
 """
 from kivy.app import App
 from kivy.lang import Builder
